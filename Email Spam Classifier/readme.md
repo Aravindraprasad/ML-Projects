@@ -13,5 +13,5 @@ process
 8. Deploy
 
 
-Till model building is completed need to build model 
+Completed the model using Naive Bayes theorm
 
